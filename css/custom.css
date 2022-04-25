@@ -300,7 +300,7 @@ body {
 /*Anime*/
 [data-anime]{
     opacity: 0;
-    transition: .6s;
+    transition: 1s;
 }
 [data-anime="left"]{
     transform: translateZ(0));
@@ -309,7 +309,7 @@ body {
     transform: translateZ(0);
 }
 [data-anime="bottom"]{
-    transform: translateZ(0);
+    transform: translateZ(1);
     transition-timing-function: ease-in-out;
 }
 [data-anime].animate{
