@@ -310,6 +310,7 @@ body {
 }
 [data-anime="bottom"]{
     transform: translateZ(0);
+    transition-timing-function: ease-in-out;
 }
 [data-anime].animate{
     opacity: 1;
