@@ -299,7 +299,7 @@ body {
 
 /*Anime*/
 [data-anime]{
-    opacity: 0;
+    opacity: -1;
     transition: 1s;
 }
 [data-anime="left"]{
