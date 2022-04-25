@@ -300,7 +300,7 @@ body {
 /*Anime*/
 [data-anime]{
     opacity: 0;
-    transition: .3s;
+    transition: .6s;
 }
 [data-anime="left"]{
     transform: translate3d(-50px, 0, 0);
