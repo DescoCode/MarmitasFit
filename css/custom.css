@@ -314,5 +314,5 @@ body {
 }
 [data-anime].animate{
     opacity: 1;
-    transform: translate3d(0px, 0px, 0px);
+    transform: translateZ(0);
 }
