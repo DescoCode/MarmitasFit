@@ -105,14 +105,12 @@ body {
 }
 
 #clientes a.Link-cliente img{
-    filter: grayscale(100%);
     max-width: 200px;
     width: 100%;
     opacity: 0.6;
 }
 
 #clientes a.Link-cliente:hover img{
-    filter: none;
     opacity: 1;
 }
 
